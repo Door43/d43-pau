@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pau:home|Door43 (pau)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pau|d43-pau repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pau/archive/master.zip|d43-pau.zip]]
+
+**Recent Changes**
+{{changes>ns = pau}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pau|Ethnologue data]]
+
